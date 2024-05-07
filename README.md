@@ -5,7 +5,7 @@
 This project focuses on handling unstructured data from drone SRT files using Python. The main objectives are to create a structured dataframe from the SRT data, add additional features such as speed, and augment a video with overlays containing information from the dataframe. The project aims to provide experience in handling unstructured data and integrating it into a visual representation.
 
 This should be the final output
-![Figure 1](https://raw.githubusercontent.com/udayaKherath/Unstructured-data-handling/main/img1.png)
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Unstructured-data-handling/main/OutputVideoFrameExample.png)
 
 ## 2. Implementation Details
 

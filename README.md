@@ -4,9 +4,6 @@
 
 This project focuses on handling unstructured data from drone SRT files using Python. The main objectives are to create a structured dataframe from the SRT data, add additional features such as speed, and augment a video with overlays containing information from the dataframe. The project aims to provide experience in handling unstructured data and integrating it into a visual representation.
 
-This should be the final output
-![Figure 1](https://raw.githubusercontent.com/udayaKherath/Unstructured-data-handling/main/OutputVideoFrameExample.png)
-
 ## 2. Implementation Details
 
 ### 2.1 Data Processing
@@ -21,13 +18,8 @@ This should be the final output
 - **Overlay Generation:** Overlays containing information from the dataframe (such as latitude, longitude, altitude, and speed) are generated and added to each frame of the video.
 - **Video Compilation:** The augmented frames are compiled back into a video format, creating a visual representation of the data.
 
-
-## 3. Usage
-
-1. Ensure Python and the required libraries (such as pandas, OpenCV) are installed.
-2. Place the SRT file (`drone_flight.srt`) and the input video (`input_video.mp4`) in the `data/input/` directory.
-3. Run the `main.py` script to execute the data processing and video augmentation.
-4. The augmented video will be saved in the `data/output/` directory as `augmented_video.mp4`.
+This is the final output
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Unstructured-data-handling/main/OutputVideoFrameExample.png)
 
 ## 4. Future Improvements
 
